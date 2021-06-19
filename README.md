@@ -6,6 +6,7 @@ Cell counting is any of various methods for the counting or similar quantificati
 This program is implemented to count the number of cells in the image. The cells are also labeled and the perimeter and area are calculated for each cell.
 
 ## Input:
+
 <p align=center>
 <img src="https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/Cells.tif">
 </p>
