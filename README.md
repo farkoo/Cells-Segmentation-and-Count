@@ -8,5 +8,6 @@ This program is implemented to count the number of cells in the image. The cells
 ## Input:
 
 <p align=center>
-<img src="https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/Cells.tif">
+<img src="https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/Cells.jpg">
 </p>
+
