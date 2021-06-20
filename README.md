@@ -37,3 +37,8 @@ In the previous section, we mentioned that the cells are labeled, that is, the b
 To calculate the cell area of a binary mask based on the cell label number, the sum of the pixels of this mask is equal to the desired cell area.
 
 To calculate the average brightness level of the image, multiply the binary mask obtained in the previous step by the primary image and obtain the average brightness level of the secondary image.
+
+<p align=center>
+<img src="https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/mask.png">
+</p>
+
