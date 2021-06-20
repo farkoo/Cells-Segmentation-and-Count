@@ -19,7 +19,7 @@ For cell segmentation, we can use thresholding methods to convert a RGB or grays
 <img src="https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/Diagram1.png">
 </p>
 
-<br>
+<h>
 
 **MY_bwlabel.m**
 <p align=center>
