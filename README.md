@@ -13,3 +13,5 @@ This program is implemented to count the number of cells in the image. The cells
 
 ## Methods, challenges, solutions
 For cell segmentation, we can use thresholding methods to convert a RGB or grayscale image to a black-and-white image, but the challenge with this method is that it makes a mistake in counting cells that are too close.
+
+<img src="https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/Diagram1.png">
