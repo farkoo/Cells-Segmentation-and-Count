@@ -30,3 +30,8 @@ For cell segmentation, we can use thresholding methods to convert a RGB or grays
 <p align=center>
 <img src="https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/Result.png">
 </p>
+
+### Calculate perimeter and area
+In the previous section, we mentioned that the cells are labeled, that is, the brightness level of the first cell is equal to one, and the brightness level of the second cell is equal to two, and so on. We know there are no more than 255 cells in each image.
+
+To calculate the perimeter, it is enough to multiply the binary image in the binary mask of the particular cell, then use a method to find the border belonging to that cell, and finally the sum of all pixels in the image is equal to the perimeter of that particular cell.
