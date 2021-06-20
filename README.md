@@ -42,3 +42,20 @@ To calculate the average brightness level of the image, multiply the binary mask
 <img src="https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/mask.png">
 </p>
 
+
+## Support
+
+**Contact me @:**
+
+e-mail:
+
+* farzanehkoohestani2000@gmail.com
+
+Telegram id:
+
+* [@farzaneh_koohestani](https://t.me/farzaneh_koohestani)
+
+## License
+[MIT](https://github.com/farkoo/Cells-Segmentation-and-Count/blob/master/LICENSE)
+&#0169; 
+[Farzaneh Koohestani](https://github.com/farkoo)
