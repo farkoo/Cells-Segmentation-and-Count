@@ -1,5 +1,6 @@
 # Cells-Segmentation-and-Count
 
+[![CI](https://github.com/farkoo/Cells-Segmentation-and-Count/actions/workflows/blank.yml/badge.svg?branch=master)](https://github.com/farkoo/Cells-Segmentation-and-Count/actions/workflows/blank.yml)
 
 [![](https://img.shields.io/appveyor/build/farkoo/Cells-Segmentation-and-Count)](https://github.com/farkoo/Cells-Segmentation-and-Count)
 
