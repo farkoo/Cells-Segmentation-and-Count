@@ -3,6 +3,13 @@
 
 [![](https://img.shields.io/appveyor/build/farkoo/Cells-Segmentation-and-Count)](https://github.com/farkoo/Cells-Segmentation-and-Count)
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/farkoo/Cells-Segmentation-and-Count/lint?label=lint&logo=github&style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/1995parham/Cells-Segmentation-and-Count/test?label=test&logo=github&style=flat-square)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/1995parham/Cells-Segmentation-and-Count/release?label=release&logo=github&style=flat-square)
+<!--[![Go Reference](https://pkg.go.dev/badge/github.com/1995parham/pakhshi.svg)](https://pkg.go.dev/github.com/1995parham/pakhshi)-->
+[![Codecov](https://img.shields.io/codecov/c/gh/farkoo/Cells-Segmentation-and-Count?logo=codecov&style=flat-square)](https://codecov.io/gh/farkoo/Cells-Segmentation-and-Count)
+
+
 Cell counting is any of various methods for the counting or similar quantification of cells in the life sciences, including medical diagnosis and treatment. It is an important subset of cytometry, with applications in research and clinical practice. For example, the complete blood count can help a physician to determine why a patient feels unwell and what to do to help. Cell counts within liquid media (such as blood, plasma, lymph, or laboratory rinsate) are usually expressed as a number of cells per unit of volume, thus expressing a concentration (for example, 5,000 cells per milliliter).
 
 
